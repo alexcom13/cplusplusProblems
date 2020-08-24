@@ -1,2 +1,4 @@
 # cplusplusProblems
-hackerranks problems
+hackerrank problems 
+
+by alexey_cortes13
